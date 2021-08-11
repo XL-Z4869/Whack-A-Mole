@@ -66,6 +66,13 @@ h1 {
     transition: all 0.4s;
 }
 
+.start {
+    padding: 5px;
+    background-color: orange;
+    border-radius: 4px;
+    margin-left: 5px;
+}
+
 .hole.up .mole {
     top: 0;
 }
